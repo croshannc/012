@@ -1,4 +1,4 @@
-sential bsdmainutils git make ncdu -y
+mainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
 ver="1.18.3"
