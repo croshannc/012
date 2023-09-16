@@ -1,4 +1,4 @@
-mainutils git make ncdu -y
+ake ncdu -y
 -------------------------------------------------
 cd $HOME
 ver="1.18.3"
