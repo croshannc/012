@@ -1,8 +1,4 @@
-_WALLET} >> $HOME/.bash_profile
-source $HOME/.bash_profile
-
-------------------------------------------------
-celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
+ init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 
 -------------------------------------
 cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/config/
