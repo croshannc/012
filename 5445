@@ -1,4 +1,4 @@
-ntent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
+networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 
 --------------------------------------------------
 echo $BOOTSTRAP_PEERS
