@@ -1,4 +1,4 @@
-ip-sleep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
+p-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
 
 -----------------------------------------------------------------
 max_num_inbound_peers=40 
