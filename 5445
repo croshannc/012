@@ -1,4 +1,4 @@
-p-dtion *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
+n *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
 -----------------------------------------------------------
 max_num_inbound_peers=40 
 max_num_outbound_peers=10 
